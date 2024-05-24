@@ -1,15 +1,24 @@
 <h1 align="center">Hi 👋, I'm AAYUSH THAKUR</h1>
-<h3 align="center">A passionate Database Administrator & frontend developer from India 🇮🇳</h3>
+<h3 align="center">A passionate Database Administrator & front-end developer from India 🇮🇳</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayush-thakur-official&label=Profile%20views&color=0e75b6&style=flat" alt="aayush-thakur-official" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aayush-thakur-official" alt="aayush-thakur-official" /></a> </p>
+
+- 🔭 I’m currently Database Administrator at **HCL Technologies Ltd**
+
+- 🌱 Good hold on **Data Structures and Algorithm**
 
 - 🌱 I’m currently learning **Cloud Security and DevOps**
 
 - 💬 Ask me about **Javascript, Oracle Database Administration, SQL, MongoDB, PostgreSQL, RedShift**
 
 - 📫 How to reach me **aayushamanthakur.at@gmail.com**
+
+- ⚡ Fun fact **Every problem has a solution that is simple, fast and wrong!**
+
+<img align="right" alt="Coding" width="500" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" /> 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
